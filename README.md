@@ -8,9 +8,8 @@
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter)\
 ![Tailwind](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=tailwind)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
-![laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FFA518)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=FFA518)&nbsp;
+![Alpinejs](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=Alpine.js&logoColor=FFA518)&nbsp;
