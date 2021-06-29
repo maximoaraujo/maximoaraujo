@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Livewire](https://img.shields.io/badge/-livewire-05122A?&style=flat&logo=livewire)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?&&style=flat&logo=flutter)\
-![Tailwind](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Tailwind](https://img.shields.io/badge/-tailwind.css-05122A?style=flat&logo=tailwind.css)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?&style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?&&style=flat&logo=laravel)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
