@@ -13,3 +13,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Alpinejs](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=Alpine.js&logoColor=FFA518)&nbsp;
+![Visual Basic .NET](https://img.shields.io/badge/-visual%20basic.net-05122A?style=flat&logo=visual-basic.net&logoColor=FFA518)&nbsp;
