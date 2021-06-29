@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Alpinejs](https://img.shields.io/badge/-Alpine.js-05122A?style=flat&logo=Alpine.js&logoColor=FFA518)&nbsp;
-![Visual Basic .NET](https://img.shields.io/badge/-Visual%20basic.net-05122A?style=flat&logo=visual-basic.net&logoColor=FFA518)&nbsp;
+![Visual Basic .NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery&logoColor=FFA518)&nbsp;
 ![ajax](https://img.shields.io/badge/-ajax-05122A?style=flat&logo=ajax&logoColor=FFA518)&nbsp;
