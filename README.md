@@ -17,3 +17,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery&logoColor=FFA518)&nbsp;
 ![ajax](https://img.shields.io/badge/-ajax-05122A?style=flat&logo=ajax&logoColor=FFA518)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=#339933)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&logoColor=#000000)&nbsp;
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=Nestjs&logoColor=#E0234E)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=#3178C6)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=#47A248)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=#47A248)&nbsp;
+![Go](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLand&logoColor=#47A248)&nbsp;
