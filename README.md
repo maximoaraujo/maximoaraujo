@@ -23,7 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=#3178C6)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=#47A248)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&logoColor=#47A248)&nbsp;
-![Go](https://img.shields.io/badge/-GoLand-05122A?style=flat&logo=GoLang&logoColor=#47A248)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB&logoColor=#47A248)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=#47A248)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=#47A248)&nbsp;
