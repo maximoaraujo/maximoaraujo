@@ -28,4 +28,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=#47A248)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=#47A248)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=DigitalOcean&logoColor=#0080FF)&nbsp;
-![Astro](https://img.shields.io/badge/-astro-05122A?style=flat&logo=astro&logoColor=#0080FF)&nbsp;
+![Astro](https://img.shields.io/badge/-astro-05122A?style=flat&logo=astro&logoColor=#fff)&nbsp;
